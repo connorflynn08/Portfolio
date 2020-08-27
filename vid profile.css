@@ -10,15 +10,17 @@
 
 }
 
+
   .container {
     min-width: 100%;
     min-height: auto;
     margin: 0;
     padding: 0;
+    text-align: center;
   }
 
   .textbox {
-    display: flex;
+    display: inline-block;
     justify-content: center;
     align-items: center;
     font-size: 50px ;
@@ -27,11 +29,9 @@
     text-align: center;
     position: relative;
     color: white;
-    margin-bottom: 0;
     padding: 0;
     font-family: 'Reenie Beanie', cursive;
-
-
+    margin: 0 auto;
   }
 
   .topnav {
@@ -172,4 +172,13 @@ a, a:hover {
 	-moz-transition: all ease-in 0.5s;
 	-webkit-transition: all ease-in 0.5s;
 	-o-transition: all ease-in 0.5s;
+}
+
+@media screen and (max-width: 850px){
+ .textbox {
+   top: 12vh;
+ }
+ .socialbtns li {
+   top: 15vh;
+ }
 }
