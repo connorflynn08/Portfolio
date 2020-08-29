@@ -1,0 +1,83 @@
+commit 0b4364cca5232ca683b94808c02ecca6853c5539
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Thu Aug 27 16:08:18 2020 +1000
+
+    changed icon font size
+
+commit 260a248d67eaf7df84a4020c4edc01d3330543d8
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Thu Aug 27 16:01:43 2020 +1000
+
+    fixed github link
+
+commit 8228386321098c894e39a0c8ab1133523f68e1ab
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Thu Aug 27 15:45:22 2020 +1000
+
+    styled contact page and gave working links
+
+commit 478d6b26f11b9a953c4cf6e41ca5566a7b4a6e9a
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Thu Aug 27 15:14:05 2020 +1000
+
+    Redid contact page, layout now responsive
+
+commit e14a2ad30a1eff3b136ae0c29e9b11e382418f7f
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Thu Aug 27 12:08:16 2020 +1000
+
+    added a contact page with interactive styling
+
+commit cabb63164f466feb12057b5d6dd7040a3a355a82
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Thu Aug 27 10:32:49 2020 +1000
+
+    fixed scaling issues for mobile
+
+commit 316b080af6e256732761a8178f9e8dbfaaaa8d3d
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Wed Aug 26 17:29:10 2020 +1000
+
+    ul bugfix
+
+commit 5ea0752a46b756b6814883289f65a02216bac87d
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Wed Aug 26 17:15:17 2020 +1000
+
+    minor bugfix
+
+commit 00288d5493fa582fffa2fd375efd9ecfb2889d04
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Wed Aug 26 16:53:20 2020 +1000
+
+    changed home main container to be more responsive, added link to linkedin icon
+
+commit a49f64dbdf8c728e12fffd9ca2b24d23a9eb2de5
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Wed Aug 26 14:36:58 2020 +1000
+
+    added working links to social media icons
+
+commit aa2a97fb2969afa165b0039e2996455ee9da92d7
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Wed Aug 26 12:52:55 2020 +1000
+
+    changed video dimensions for responsiveness
+
+commit 6bf6acae8c048c41fa5c2e30a1231fdc0023b399
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Wed Aug 26 12:48:41 2020 +1000
+
+    changed links to work external to machine
+
+commit 823ee37a9a073dc94d03e7bea85abe35d132b5ff
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Wed Aug 26 12:02:57 2020 +1000
+
+    added a seperate file for video and changed links within html
+
+commit 682c631ad91da6912e6b00cb547ac6666455f247
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Wed Aug 26 11:42:36 2020 +1000
+
+    Home page HTML and css
