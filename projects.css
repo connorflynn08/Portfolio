@@ -6,6 +6,7 @@
   align-items: flex-start;
   flex-direction: column;
   margin: 0;
+  background-color: #222222;
 }
 
 .blogpost {
@@ -14,12 +15,15 @@
   width: 95%;
   height: 20%;
   margin: 20px;
-  border: solid red;
+  border: solid #B8C5D6;
   align-items: flex-start;
   justify-content: flex-start;
   border-radius: 5px;
   text-align: center;
   box-shadow: -20px 16px 13px -1px rgba(54,69,79,0.55);
+  font-family: 'Khand', sans-serif;
+  background-color: #36454F;
+  font-size: 18px;
 }
 
 img {
@@ -31,6 +35,9 @@ h1 {
   display: flex;
   align-items: center;
   align-self: center;
+  color: #B8C5D6;
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 50px;
 }
 
 .topnav {
@@ -76,6 +83,8 @@ body {
 
 p {
   margin: 10px;
+  font-family: 'Khand', sans-serif;
+  color: #B8C5D6;
 }
 
 .blogpost:hover {
