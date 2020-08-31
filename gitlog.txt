@@ -1,3 +1,130 @@
+commit 15d229c9c4bce8a0a2147533efd5ce7b704b5d95
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 19:10:09 2020 +1000
+
+    made pages more screen reader friendly
+
+commit 08c45e9145a748f8ed44e6fc9f2156035c8d6dc2
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 19:02:05 2020 +1000
+
+    added meta tags and XML tags
+
+commit b15941311b5b0483329cd2154c736c098e8c5f5e
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 18:49:03 2020 +1000
+
+    Added comments to explain CSS styling in each CSS page
+
+commit 2efdc5d60190f420e89763d035415b7e919d7e14
+Merge: 365d848 e0837cf
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 18:22:24 2020 +1000
+
+    Merge branch 'master' of https://github.com/connorflynn08/Portfolio
+
+commit 365d84889953889a49a4362301fee6972ce6ef59
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 18:21:42 2020 +1000
+
+    Added site map XML
+
+commit e0837cfd6f96a263464b3569c1c45376abe36ca7
+Author: connorflynn08 <70245658+connorflynn08@users.noreply.github.com>
+Date:   Mon Aug 31 18:20:45 2020 +1000
+
+    Create README.md
+
+commit 7bba9e9e8f5f168a8034de7d6f2b4d3d1e555388
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 18:06:00 2020 +1000
+
+    added navbar links to blog
+
+commit 093daaa0b154789a7a2c6f5ee9b305f49f6899e4
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 18:04:18 2020 +1000
+
+    Forgot to save
+
+commit c4dea1ee7f004b848ca6a82c3ca924850b5e1d24
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 18:03:10 2020 +1000
+
+    Added blogs page, all is placeholder to meet assignment requirements
+
+commit 0633e9ebbc1de6ce2701085e90c27f5b46d0ed5f
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 13:41:06 2020 +1000
+
+    fixed navbar from inheriting social button anchor properties
+
+commit 2422aeeb8aa36be1672c0c88736560acda8ccd7f
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 13:06:05 2020 +1000
+
+    added content to projects page, added images to media folder
+
+commit 4e364cc0e37e2f2f32e6acb0bcd2b5f5b99e1074
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 11:33:59 2020 +1000
+
+    fixed whitespace
+
+commit 1375eff4bec01a45054e439139db8e2f20a32383
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 11:02:31 2020 +1000
+
+    Added styling to projects page, fixed link on index page
+
+commit 95aa77d6fbdac477b2e7d8c8c33da0efaee67344
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 10:39:30 2020 +1000
+
+    Added Projects page, placeholder text and some styling
+
+commit f1cab1de568b726a0959fb2375cc85fcf4641353
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Sat Aug 29 22:21:58 2020 +1000
+
+    changed class on topnav to highlight Contact, not Home
+
+commit 12dd4214fd1874f2e1b5d8a9819c4d72ab990bf7
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Sat Aug 29 22:13:12 2020 +1000
+
+    Changed background image on contact page, fixed responsiveness issues and generally finished the page
+
+commit edef4d9765a7743373756988b6dc0f5f9e5aeec9
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Sat Aug 29 20:30:04 2020 +1000
+
+    Changed font colours, fixed some hover colour effects
+
+commit 9722343e145dae4b76dda7115b6b259582c3efdf
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Sat Aug 29 20:19:53 2020 +1000
+
+    Styled about page and made little changes to buildup of page
+
+commit 71ff80c77f177f2688cf8029019b1ead5153b216
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Sat Aug 29 19:00:03 2020 +1000
+
+    Fixed height issues, links and other things
+
+commit a7293ac0fe9096df7086b6f636df438534c60549
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Sat Aug 29 18:44:38 2020 +1000
+
+    Added about page with some styling and content, needs work
+
+commit c8bdbafeacf0e5f645d5ef9fa3e66a5305823d22
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Sat Aug 29 17:02:55 2020 +1000
+
+    Added git log for evidence of source control
+
 commit 0b4364cca5232ca683b94808c02ecca6853c5539
 Author: Connor Flynn <connorflynn95@hotmail.com>
 Date:   Thu Aug 27 16:08:18 2020 +1000
