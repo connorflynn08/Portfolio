@@ -1,3 +1,4 @@
+/*container for other divs*/
 .container {
   display: flex;
   width: 100%;
@@ -11,6 +12,7 @@
   margin: 0;
 }
 
+/*profile picture*/
 .img {
   display: inline-flex;
   flex-direction: column;
@@ -23,7 +25,7 @@
   border-radius: 10px;
   z-index: 1;
 }
-
+/*Left content box*/
 .contentone {
   display: inline-flex;
   flex-direction: column;
@@ -43,7 +45,7 @@
   font-family: 'Khand', sans-serif;
   color: #B8C5D6;
 }
-
+/*
 .linkbox {
   display: inline-flex;
   flex-direction: column;
@@ -56,8 +58,9 @@
   border: 1px solid;
   padding: 10px;
   width: 50px;
-}
+}*/
 
+/*right content box*/
 .contenttwo {
   display: inline-flex;
   align-self: flex-start;
@@ -110,6 +113,7 @@ body {
   margin: 0px;
 }
 
+/*top nav bar and hover properties*/
 .topnav {
 background-color: #36454F;
 overflow: hidden;

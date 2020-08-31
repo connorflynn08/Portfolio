@@ -1,3 +1,4 @@
+/*background video*/
 #myVideo {
   position: absolute;
   right: 0;
@@ -10,7 +11,7 @@
 
 }
 
-
+/*main content div*/
   .container {
     min-width: 100%;
     min-height: auto;
@@ -19,6 +20,7 @@
     text-align: center;
   }
 
+/*div made for text*/
   .textbox {
     display: inline-block;
     justify-content: center;
@@ -34,6 +36,7 @@
     margin: 0 auto;
   }
 
+/*specific div for the topnav, anchors were inheriting social media properties and being weird, this fixed it*/
   .container .topnav  {
   background-color: #333;
   overflow: hidden;
@@ -94,6 +97,7 @@ a {
 
 }
 
+/*social media icons with hover effects*/
 @import url('//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
 
 a, a:hover {
@@ -175,6 +179,7 @@ a, a:hover {
 	-o-transition: all ease-in 0.5s;
 }
 
+/*resizes when viewed on mobile*/
 @media screen and (max-width: 850px){
  .textbox {
    top: 12vh;

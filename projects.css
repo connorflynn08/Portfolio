@@ -1,3 +1,4 @@
+/*main container holding other diivs*/
 .container {
   display: flex;
   width: 100%;
@@ -9,6 +10,7 @@
   background-color: #222222;
 }
 
+/*flexbox div with content*/
 .blogpost {
   display: flex;
   flex-direction: row;
@@ -40,6 +42,7 @@ h1 {
   font-size: 50px;
 }
 
+/*top navigation bar with children elements*/
 .topnav {
 background-color: #36454F;
 overflow: hidden;
@@ -103,6 +106,7 @@ a {
   margin: 0;
 }
 
+/*blogpost hover styling*/
 .blogpost:hover {
     -moz-transform: translate(-2px, -2px);
     -ms-transform: translate(-2px, -2px);
