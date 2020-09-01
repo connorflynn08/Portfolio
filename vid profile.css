@@ -45,6 +45,8 @@
   padding: 0;
   position: relative;
   border-radius: 1px;
+  height: 30px;
+  font-size: 25px;
 }
 
 .container .topnav a {
@@ -126,8 +128,8 @@ a, a:hover {
     z-index: 2;
     position: relative;
     text-align: center;
-    font-size: 15px;
-    top: 350px;
+    font-size: 20px;
+    top: 360px;
     right: 22px;
 }
 
