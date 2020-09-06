@@ -1,0 +1,234 @@
+commit b9c47faed9fbfec9ba5f369260a05a8d05c8dbde
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Wed Sep 2 11:35:39 2020 +1000
+
+    Added SRI's to pages
+
+commit f893f30dde87342bc32b3f7357b0563a0e0cfa84
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Tue Sep 1 11:00:45 2020 +1000
+
+    added dates to blog posts
+
+commit 91c656ab3c2f112d8f121edaf015d1c562acf03c
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Tue Sep 1 10:57:15 2020 +1000
+
+    Made nav bar bigger on all pages
+
+commit 106fe5d01360e6d976b4483317d6a9f1ab82c44a
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 19:11:27 2020 +1000
+
+    Updated git log
+
+commit 15d229c9c4bce8a0a2147533efd5ce7b704b5d95
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 19:10:09 2020 +1000
+
+    made pages more screen reader friendly
+
+commit 08c45e9145a748f8ed44e6fc9f2156035c8d6dc2
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 19:02:05 2020 +1000
+
+    added meta tags and XML tags
+
+commit b15941311b5b0483329cd2154c736c098e8c5f5e
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 18:49:03 2020 +1000
+
+    Added comments to explain CSS styling in each CSS page
+
+commit 2efdc5d60190f420e89763d035415b7e919d7e14
+Merge: 365d848 e0837cf
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 18:22:24 2020 +1000
+
+    Merge branch 'master' of https://github.com/connorflynn08/Portfolio
+
+commit 365d84889953889a49a4362301fee6972ce6ef59
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 18:21:42 2020 +1000
+
+    Added site map XML
+
+commit e0837cfd6f96a263464b3569c1c45376abe36ca7
+Author: connorflynn08 <70245658+connorflynn08@users.noreply.github.com>
+Date:   Mon Aug 31 18:20:45 2020 +1000
+
+    Create README.md
+
+commit 7bba9e9e8f5f168a8034de7d6f2b4d3d1e555388
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 18:06:00 2020 +1000
+
+    added navbar links to blog
+
+commit 093daaa0b154789a7a2c6f5ee9b305f49f6899e4
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 18:04:18 2020 +1000
+
+    Forgot to save
+
+commit c4dea1ee7f004b848ca6a82c3ca924850b5e1d24
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 18:03:10 2020 +1000
+
+    Added blogs page, all is placeholder to meet assignment requirements
+
+commit 0633e9ebbc1de6ce2701085e90c27f5b46d0ed5f
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 13:41:06 2020 +1000
+
+    fixed navbar from inheriting social button anchor properties
+
+commit 2422aeeb8aa36be1672c0c88736560acda8ccd7f
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 13:06:05 2020 +1000
+
+    added content to projects page, added images to media folder
+
+commit 4e364cc0e37e2f2f32e6acb0bcd2b5f5b99e1074
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 11:33:59 2020 +1000
+
+    fixed whitespace
+
+commit 1375eff4bec01a45054e439139db8e2f20a32383
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 11:02:31 2020 +1000
+
+    Added styling to projects page, fixed link on index page
+
+commit 95aa77d6fbdac477b2e7d8c8c33da0efaee67344
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Mon Aug 31 10:39:30 2020 +1000
+
+    Added Projects page, placeholder text and some styling
+
+commit f1cab1de568b726a0959fb2375cc85fcf4641353
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Sat Aug 29 22:21:58 2020 +1000
+
+    changed class on topnav to highlight Contact, not Home
+
+commit 12dd4214fd1874f2e1b5d8a9819c4d72ab990bf7
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Sat Aug 29 22:13:12 2020 +1000
+
+    Changed background image on contact page, fixed responsiveness issues and generally finished the page
+
+commit edef4d9765a7743373756988b6dc0f5f9e5aeec9
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Sat Aug 29 20:30:04 2020 +1000
+
+    Changed font colours, fixed some hover colour effects
+
+commit 9722343e145dae4b76dda7115b6b259582c3efdf
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Sat Aug 29 20:19:53 2020 +1000
+
+    Styled about page and made little changes to buildup of page
+
+commit 71ff80c77f177f2688cf8029019b1ead5153b216
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Sat Aug 29 19:00:03 2020 +1000
+
+    Fixed height issues, links and other things
+
+commit a7293ac0fe9096df7086b6f636df438534c60549
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Sat Aug 29 18:44:38 2020 +1000
+
+    Added about page with some styling and content, needs work
+
+commit c8bdbafeacf0e5f645d5ef9fa3e66a5305823d22
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Sat Aug 29 17:02:55 2020 +1000
+
+    Added git log for evidence of source control
+
+commit 0b4364cca5232ca683b94808c02ecca6853c5539
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Thu Aug 27 16:08:18 2020 +1000
+
+    changed icon font size
+
+commit 260a248d67eaf7df84a4020c4edc01d3330543d8
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Thu Aug 27 16:01:43 2020 +1000
+
+    fixed github link
+
+commit 8228386321098c894e39a0c8ab1133523f68e1ab
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Thu Aug 27 15:45:22 2020 +1000
+
+    styled contact page and gave working links
+
+commit 478d6b26f11b9a953c4cf6e41ca5566a7b4a6e9a
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Thu Aug 27 15:14:05 2020 +1000
+
+    Redid contact page, layout now responsive
+
+commit e14a2ad30a1eff3b136ae0c29e9b11e382418f7f
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Thu Aug 27 12:08:16 2020 +1000
+
+    added a contact page with interactive styling
+
+commit cabb63164f466feb12057b5d6dd7040a3a355a82
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Thu Aug 27 10:32:49 2020 +1000
+
+    fixed scaling issues for mobile
+
+commit 316b080af6e256732761a8178f9e8dbfaaaa8d3d
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Wed Aug 26 17:29:10 2020 +1000
+
+    ul bugfix
+
+commit 5ea0752a46b756b6814883289f65a02216bac87d
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Wed Aug 26 17:15:17 2020 +1000
+
+    minor bugfix
+
+commit 00288d5493fa582fffa2fd375efd9ecfb2889d04
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Wed Aug 26 16:53:20 2020 +1000
+
+    changed home main container to be more responsive, added link to linkedin icon
+
+commit a49f64dbdf8c728e12fffd9ca2b24d23a9eb2de5
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Wed Aug 26 14:36:58 2020 +1000
+
+    added working links to social media icons
+
+commit aa2a97fb2969afa165b0039e2996455ee9da92d7
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Wed Aug 26 12:52:55 2020 +1000
+
+    changed video dimensions for responsiveness
+
+commit 6bf6acae8c048c41fa5c2e30a1231fdc0023b399
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Wed Aug 26 12:48:41 2020 +1000
+
+    changed links to work external to machine
+
+commit 823ee37a9a073dc94d03e7bea85abe35d132b5ff
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Wed Aug 26 12:02:57 2020 +1000
+
+    added a seperate file for video and changed links within html
+
+commit 682c631ad91da6912e6b00cb547ac6666455f247
+Author: Connor Flynn <connorflynn95@hotmail.com>
+Date:   Wed Aug 26 11:42:36 2020 +1000
+
+    Home page HTML and css
